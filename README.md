@@ -1,6 +1,6 @@
 # nearengine homebrew tap
 
-This repository contains a collection of [Homebrew](https://brew.sh/) (also known as `brew`) formulae for nearengine software.
+A collection of [Homebrew](https://brew.sh/) (also known as `brew`) formulae for nearengine software.
 
 ## Usage
 

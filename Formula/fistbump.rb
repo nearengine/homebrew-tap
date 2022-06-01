@@ -5,8 +5,6 @@ class Fistbump < Formula
   sha256 "06be4966d014e2f2485a702ac695ce9c3586436c258ab7cc42be35e6e59bf493"
   version "1.0.0"
 
-  bottle :unneeded
-
   def install
     bin.install "fistbump"
   end
